@@ -1,0 +1,19 @@
+h1 {
+    color: darkturquoise;
+}
+img {
+    width: 400px ;
+}
+.thirdDiv {
+    width:600px;
+    height: 500px;
+    blackground-color: brown;
+}
+#spaId {
+    font-size: 18px;
+    margin: 50px;
+}
+#trhirDiv {
+    padding: 50px;
+    border: 5px;
+}
